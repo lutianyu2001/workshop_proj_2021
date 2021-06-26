@@ -1,0 +1,5 @@
+编译指令
+    -  编译 html:
+        】.\make.bat html【
+    -  编译 PDF (LaTeX为中介):
+        】.\make.bat latexpdf【
